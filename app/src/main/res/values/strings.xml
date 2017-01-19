@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StateSaveDemo</string>
+    <string name="name">Enter your Name</string>
+</resources>
